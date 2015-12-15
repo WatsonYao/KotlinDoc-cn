@@ -10,7 +10,7 @@ Kotlin是一门基于jvm的新语言，可以用来开发Android应用，其优�
  **与AS和Gradle完美结合** ：我们有一个IDE的插件和另一个属于Grade的插件，因此，用Kotlin进行 android编程并不困难。
 
 ##相关链接
-Kotlin开发环境配置http://blog.kymjs.com/code/2015/07/22/01/  
+Kotlin开发环境配置http://blog.kymjs.com/code/2015/07/22/01/  （这个链接好像失效了）
 一个Kotlin开发的简单Android登录功能http://blog.kymjs.com/code/2015/08/03/01/  
 kotlin开发的Android应用https://github.com/kymjs/CodeCafe  
 本项目的英语原本https://github.com/kymjs/KotlinDoc-cn/blob/master/kotlin-docs.pdf   
